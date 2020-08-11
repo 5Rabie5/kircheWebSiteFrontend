@@ -7,4 +7,5 @@
     background-color: #000000; /*whichever you want*/
     opacity: 0.3; /*0.5 determines transparency value*/
     /*filter: (opacity=50);*/
+    font-weight: bold;
 }

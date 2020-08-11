@@ -1,10 +1,10 @@
-.my-nav {
-    box-shadow: 5px 5px #241a1a;
-    top:5%;
-    position: absolute;
-    z-index: 88;
-    width: 100%;
-    background-color: #000000; /*whichever you want*/
-    opacity: 0.3; /*0.5 determines transparency value*/
-    /*filter: (opacity=50);*/
-}
+/*.my-nav {*/
+/*    box-shadow: 5px 5px #241a1a;*/
+/*    top:5%;*/
+/*    position: absolute;*/
+/*    z-index: 88;*/
+/*    width: 100%;*/
+/*    background-color: #000000; !*whichever you want*!*/
+/*    opacity: 0.3; !*0.5 determines transparency value*!*/
+/*    !*filter: (opacity=50);*!*/
+/*}*/
